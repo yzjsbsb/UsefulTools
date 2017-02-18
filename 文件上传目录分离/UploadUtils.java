@@ -1,4 +1,4 @@
-package cn.itcast.utils;
+package cn.yzjsbsb.utils;
 /**
  * 目录分离的工具类:
  */
